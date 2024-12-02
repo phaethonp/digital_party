@@ -19,7 +19,7 @@ We believe that in the age of political fluidity, the goal of the platform **is 
 
 * Purpose 3: Help users to become voters.
 
-Some users will form the strong party core and engage in expanding and growing the party
+In their journey some users will acquire the status of party member and some other will form the strong party core and engage in expanding and growing the party
 
 
 ### Increasing participation : We design mechanisms that are optimal for different groups of participants. Why?

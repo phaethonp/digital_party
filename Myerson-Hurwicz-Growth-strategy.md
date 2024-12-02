@@ -10,7 +10,7 @@ We find it more efficient to communicate the services we designed in a personal 
 
 ### Introduction
 To achieve our objective, we introduce services as independent direct mechanisms, progressive profiling, and request only the information that is necessary and related to the status of the users. </br>
-We believe that in the age of political fluidity, the goal of the platform is not to sell memberships in exchange for private personal data, but to acknowledge that an entity might engage with the party in many different capacities that may or may not include the status of a member.  </br>
+We believe that in the age of political fluidity, the goal of the platform **is not to sell memberships in exchange for private personal data**, but to acknowledge that an entity might engage with the party in many different capacities that may or may not include the status of a member.  </br>
 ### Consequently, the platform must address three distinct purposes:
 
 * Purpose 1: Enable users to engage with the party and reveal their true preferences in policies.

@@ -59,7 +59,7 @@ Example 2: If the party does not have access to a user's email address, communic
 Because each service is an independent mechanism we create mechanisms that are optimal for different groups of participants. This allows us  to control the components of each service independently without affecting other services or groups
 
 
-**Step 1**: **Increase participation**
+### **Step 1**: **Increase participation**
 * Objective: Create services that provide value to users. Services will be successful if users are not better off by opting out of participation.
 * Identification of Services: Stefanos has provided a solution to this problem. Additionally, the services offered by the party are referenced in the party bylaws.
 * Strategy: Target specific groups with clear and tangible benefits.
@@ -84,7 +84,7 @@ No user should be made worse off by participating in the mechanism which means t
    - **User-Centric Approach**: Focus on users' motivations to ensure that participation and truthful reporting are aligned with their personal benefits.
    - **Optimal Incentives**: Provide incentives that reinforce the value of honest participation, making it the most beneficial choice for users.
 
-Step 3: Pareto Optimality
+### **Step 3: Pareto Optimality**
 Objective: We want to ensure that the entire platform allocates resources efficiently to benefit all participants without making anyone worse off, thereby achieving Pareto Optimality across all services and participant groups.
 
 

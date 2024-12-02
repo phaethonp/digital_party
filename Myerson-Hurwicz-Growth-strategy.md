@@ -46,7 +46,7 @@ The collection of direct mechanisms available on the platform
 1. The number of citizens participating in the communication system
 2.  The growth rate
 
-## The Incentive efficient— Direct mechanism: The service
+## The Incentive efficient— Direct mechanism: Each service is modeled as a Direct Mechanism
 **The constraints**
 1. Incentive Compatibility: The objective is to encourage users to share their true preferences and information willingly 
 2. Participation Constraint: Encourage users to participate by creating incentives and ensure that users are not better offf by not participating
@@ -55,7 +55,7 @@ The collection of direct mechanisms available on the platform
 Example 1: If the party does not understand the political preferences of a user, it cannot design an efficient policy for that group.</br>
 Example 2: If the party does not have access to a user's email address, communication becomes inefficient.</br>
 
-## How we use the Direct Mechanism model to engage users
+## How we use the Multiple Direct Mechanism model to engage users
 Because each service is an independent mechanism we create mechanisms that are optimal for different groups of participants. This allows us  to control the components of each service independently without affecting other services or groups
 
 

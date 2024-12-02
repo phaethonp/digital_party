@@ -22,7 +22,7 @@ We believe that in the age of political fluidity, the goal of the platform **is 
 In their journey some users will acquire the status of party member and some other users will form the strong party core and engage in expanding and growing the party
 
 
-### Increasing participation : We design mechanisms that are optimal for different groups of participants. Why?
+### Increasing participation : We design multiple mechanisms that are optimal for different groups of participants. Why?
 > Hurwicz (1972) proved the following negative result: in a standard exchange economy, no incentive-compatible mechanism which satisfies the participation constraint can produce Pareto-optimal outcomes. In other words, private information precludes full efficiency.
 
 ## Definitions

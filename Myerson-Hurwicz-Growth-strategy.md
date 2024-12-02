@@ -1,21 +1,26 @@
 # Framework for Structuring the Party Growth Strategy Using the Myerson-Hurwicz Model
 
-The design intention of this framework is to increase the number of people engaging truthfully and meaningfully with the party and reach out to the 50% of citizens not participating in the elections. 
-To achieve our objective, we introduce services as independent direct mechanisms, progressive profiling, and request only the information that is necessary and related to the status of the users. We believe that in the age of political fluidity, the goal of the platform is not to sell memberships in exchange for private personal data, but to acknowledge that an entity might engage with the party in many different capacities that may or may not include the status of a member. Consequently, the platform must address three distinct purposes:
+The design intention of this framework is to increase the number of people engaging truthfully and meaningfully with the party and reach out to the 50% of citizens not participating in the elections. </br>
+### The framework consists of the following modules
+* Myerson-Hurwicz  economic models
+* Services _Note
+We find it more efficient to communicate the services we designed in a personal meeting_
+* Code implementation and 
+* User interface
 
-Purpose 1: Enable users to engage with the party and reveal their true preferences in policies.
+### Introduction
+To achieve our objective, we introduce services as independent direct mechanisms, progressive profiling, and request only the information that is necessary and related to the status of the users. </br>
+We believe that in the age of political fluidity, the goal of the platform is not to sell memberships in exchange for private personal data, but to acknowledge that an entity might engage with the party in many different capacities that may or may not include the status of a member.  </br>
+### Consequently, the platform must address three distinct purposes:
 
-Purpose 2: Enable users to support the party financially.
+* Purpose 1: Enable users to engage with the party and reveal their true preferences in policies.
 
-Purpose 3: Help users to become voters.
+* Purpose 2: Enable users to support the party financially.
+
+* Purpose 3: Help users to become voters.
 
 Some users will form the strong party core and engage in expanding and growing the party
 
-The framework consists of the following modules
-* Myerson-Hurwicz  economic models
-* Services creation
-* Code implementation and 
-* User interface
 
 ### Increasing participation : We design mechanisms that are optimal for different groups of participants. Why?
 > Hurwicz (1972) proved the following negative result: in a standard exchange economy, no incentive-compatible mechanism which satisfies the participation constraint can produce Pareto-optimal outcomes. In other words, private information precludes full efficiency.
@@ -26,8 +31,7 @@ Party and citizens need a communication system where citizens send messages to t
 
 **Service**
 Service: A service is defined as a pair consisting of a message and a rule 
-_Note
-We find it more efficient to communicate the services we designed in a personal meeting_
+
 
 **The Service model**
 I model each service as a Hurwicz "direct mechanism"
@@ -44,12 +48,12 @@ The collection of direct mechanisms available on the platform
 
 ## The Incentive efficient— Direct mechanism: The service
 **The constraints**
-* 1. Incentive Compatibility: The objective is to encourage users to share their true preferences and information willingly 
-* 2. Participation Constraint: Encourage users to participate by creating incentives and ensure that users are not better offf by not participating
+1. Incentive Compatibility: The objective is to encourage users to share their true preferences and information willingly 
+2. Participation Constraint: Encourage users to participate by creating incentives and ensure that users are not better offf by not participating
 
-*. 3. Pareto Optimality: Resources are used efficiently to benefit all participants.
-Example 1: If the party does not understand the political preferences of a user, it cannot design an efficient policy for that group.
-Example 2: If the party does not have access to a user's email address, communication becomes inefficient.
+3. Pareto Optimality: Resources are used efficiently to benefit all participants.</br>
+Example 1: If the party does not understand the political preferences of a user, it cannot design an efficient policy for that group.</br>
+Example 2: If the party does not have access to a user's email address, communication becomes inefficient.</br>
 
 ## How we use the Direct Mechanism model to engage users
 Because each service is an independent mechanism we create mechanisms that are optimal for different groups of participants. This allows us  to control the components of each service independently without affecting other services or groups

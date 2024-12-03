@@ -13,7 +13,9 @@ To achieve our objective, we introduce services as independent direct mechanisms
 We believe that in the age of political fluidity, the goal of the platform **is not to sell memberships in exchange for private personal data**, but to acknowledge that an entity might engage with the party in many different capacities that may or may not include the status of a member.  </br>
 ### Consequently, the platform must address three distinct purposes:
 
-* Purpose 1: Enable users to engage with the party and reveal their true preferences in policies.
+* Purpose 1: Enable users to engage with the party and share their true preferences
+  
+  The political party wants to gather truthful private information from citizens (e.g., political preferences, policy priorities, socioeconomic status) to design policies and tailor campaigns effectively.
 
 * Purpose 2: Enable users to support the party financially.
 
